@@ -1,0 +1,7 @@
+
+C
+PocPolly/Dockerfile,4\0\406a95b98d91962460c390a05431af2176b0e4e0
+B
+PocPolly/Worker.cs,b\6\b6b18b32364c868548375214cb49262376a05545
+C
+PocPolly/Program.cs,e\3\e39da63062d2cfe762aef32f885391962fcd6b89
